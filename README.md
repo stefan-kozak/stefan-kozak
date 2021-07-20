@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stefan-kozak
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JS/PHP
+- 🌱 I’m currently learning VUE JS
 - 📫 How to reach me - stevokozak@icloud.com
 
 <!---
